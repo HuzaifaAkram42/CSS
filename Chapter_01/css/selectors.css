@@ -1,0 +1,61 @@
+/* *{
+    background-color: forestgreen;
+} */
+
+/* h1 , p{
+    color: red;
+} */
+
+/* .heading{
+    color: violet;
+}
+
+#h{
+    color: yellowgreen;
+} */
+
+/* .list-one > li{
+    color: violet;
+}
+
+.list-two > li{
+    color: blueviolet;
+}
+
+/* .main > p > b{
+    color: blue;
+} */
+
+/* .main b{
+    color: violet;
+} */ 
+
+/* .heading + p{
+    color: aqua;
+}
+
+.heading~p{
+
+    color: aqua;
+} */
+
+h1{
+    color: green;
+}
+
+h1{
+    color: aqua;
+}
+
+.heading{
+    color: blueviolet;
+}
+
+#h{
+    color: brown !important;
+}
+
+#h{
+    color: yellowgreen !important;
+}
+
