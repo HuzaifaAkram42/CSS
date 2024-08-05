@@ -1,0 +1,19 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Noto+Nastaliq+Urdu:wght@400..700&family=Rubik+Wet+Paint&display=swap');
+@font-face {
+    font-family: "Nastaliq";
+    src: url(/fonts/NotoNastaliqUrdu-Regular.ttf);
+}
+@font-face {
+    font-family: "Urdu1";
+    src: url(/fonts/300\ Regular.ttf);
+}
+.urdu{
+    font-family: "Nastaliq";
+    text-align: center;
+}
+
+.poem_2{
+    font-family: "Urdu1";
+    text-align: center;
+}
